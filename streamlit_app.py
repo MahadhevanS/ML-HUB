@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title("Welcome to MAHADHEVAN's ML base 🤖")
 
-st.write('Hello world!')
+st.info("A place where all my ML models are active.")
