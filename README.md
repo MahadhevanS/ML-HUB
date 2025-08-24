@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 ML Hub
 ```
 ⬆️ (Replace above with your app's name)
 ```
@@ -7,7 +7,7 @@ Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mahadhevan_ML_HUB.streamlit.app/)
 
 ## GitHub Codespaces
 
@@ -19,7 +19,7 @@ This is filler text, please replace this with text for this section.
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
+This is filler text, please replace this with an explanatory text about further relevant resources for this repo
 - Resource 1
 - Resource 2
 - Resource 3
